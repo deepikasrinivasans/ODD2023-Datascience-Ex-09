@@ -1,4 +1,4 @@
-# Ex-09-Data-Visualization-
+# Ex-09-Data-Visualization
 
 ## AIM
 To Perform Data Visualization on a complex dataset and save the data to a file. 
@@ -18,8 +18,8 @@ Apply data visualization techniques to identify the patterns of the data.
 
 ## CODE
 
-### Developed by:ABINAYA S
-### Register number:212222230002
+### Developed by:Deepika S
+### Register number:212222230028
 ```
 import seaborn as sns
 import matplotlib.pyplot as plt
