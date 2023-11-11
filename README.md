@@ -17,9 +17,10 @@ Apply Feature generation and selection techniques to all the features of the dat
 Apply data visualization techniques to identify the patterns of the data.
 
 ## CODE
-
+```
 ### Developed by:Deepika S
 ### Register number:212222230028
+```
 ```
 import seaborn as sns
 import matplotlib.pyplot as plt
