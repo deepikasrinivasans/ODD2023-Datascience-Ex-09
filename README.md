@@ -90,50 +90,30 @@ sns.heatmap(tips.corr(),annot=True)
 ```
 ## OUPUT
 ### Initial dataset:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-09/assets/119393675/66aa6ce0-ac5a-4e0d-b9e9-679fc472bf9e)
-
-
+![dd1](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-09/assets/119393935/30674bab-ad97-49dd-b173-74c7413ed3a6)
 ### tips.head():
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-09/assets/119393675/d81d6d7f-9155-4ca7-9851-f5c2cc9005da)
-
-
+![dd2](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-09/assets/119393935/d5df2a3a-f455-4559-a912-6bcfa5a122c1)
 ### tips.info():
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-09/assets/119393675/8688c2e6-287a-4e9d-ad27-07b4c123cbc2)
-
+![dd3](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-09/assets/119393935/cad6b7fe-7aa9-4419-b228-d19935d12b54)
 ### Barplot:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-09/assets/119393675/0db7fb54-27ef-48c2-a1d7-da949ae11691)
-
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-09/assets/119393675/54bd1077-c2f2-40b4-8646-ce9a1cf6d425)
-
-
+![dd4](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-09/assets/119393935/36dfe8dc-6947-4abe-aeb8-52dce4e76ca0)
+![dd5](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-09/assets/119393935/d228d387-622e-4b18-ab2a-68fc0f790f5a)
 ### Boxplot:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-09/assets/119393675/2e14ddc7-7d51-4af4-bbd7-093cb71ae858)
-
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-09/assets/119393675/1829429d-cdc7-4601-9270-18286b68b224)
-
-
+![dd6](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-09/assets/119393935/06df1e05-396b-4277-801c-cb0fffc0a421)
+![dd7](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-09/assets/119393935/85aae2b9-9c39-4e7f-ac05-13f55f67c917)
 ### Plot:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-09/assets/119393675/9836e0e9-3368-40b6-9874-7108f3007e88)
-
-
+![dd8](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-09/assets/119393935/6d5d6eb4-7107-4846-86f6-b985133ce70c)
 ### Violinplot:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-09/assets/119393675/67b4c41a-109c-4d2d-a272-bc4cdff99690)
-
+![dd9](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-09/assets/119393935/6517f467-b25e-4b23-b635-f45db6d6e3d3)
 ### Barplot:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-09/assets/119393675/c358567c-1db6-4286-a6c8-fdbeb264c5eb)
-
+![dd10](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-09/assets/119393935/a7b71024-0c18-494b-bc88-4e1f10fa9313)
 ### Boxplot:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-09/assets/119393675/0aabf0ff-3e44-4d5f-90b6-4e0dd799612a)
-
+![dd11](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-09/assets/119393935/a6d7ee28-593d-417f-b99d-a79f922dc3f9)
 ### Violinplot:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-09/assets/119393675/ac2bee7e-5d99-47f8-8cf1-f8c0dc6ccf78)
-
+![dd12](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-09/assets/119393935/089ad0c1-ed69-4d75-a4b1-bfac9f2a0a4c)
 ### Scatterplot:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-09/assets/119393675/38599dfa-b1ce-4c08-87cd-f1c6fb7f0aa9)
-
-
+![dd13](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-09/assets/119393935/d48f7d46-a19f-492a-918d-e07c4d9c6ad6)
 ### Heatmap:
-![image](https://github.com/abinayasangeetha/ODD2023-Datascience-Ex-09/assets/119393675/14f34705-4a03-4bec-9425-ad4094228e06)
-
+![dd14](https://github.com/deepikasrinivasans/ODD2023-Datascience-Ex-09/assets/119393935/75a550b0-bb56-4fec-afe1-66c91144e51e)
 ## RESULT:
 Hence,Data Visualization is applied on the complex dataset using libraries like Seaborn and Matplotlib successfully based on tips dataset and the data is saved to file
